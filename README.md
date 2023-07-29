@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://amd-rafa.github.io/discover-amd)
+- [Acesse o projeto finalizado, online](./vscode/index.html)
 
 ## 🔖 Layout
 
@@ -43,4 +43,5 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
+
 Feito com ♥ by Amanda Beltrão.
